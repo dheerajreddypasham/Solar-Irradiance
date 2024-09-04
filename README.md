@@ -1,4 +1,4 @@
-# Solar Irradiance Forecasting Using Deep Learning Techniques
+# Solar Irradiance Forecasting Using Various Neural Network Models
 
 This repository contains a comparative analysis of deep learning techniques for solar irradiance forecasting using a dataset of our local city. The goal of this research is to determine the most effective algorithm among four different models for predicting solar irradiance.
 
